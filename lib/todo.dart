@@ -119,11 +119,11 @@ class _TodoScreenState extends State<TodoScreen> {
     required List<Task> tasks,
   }) {
     return Padding(
-      padding: const EdgeInsets.only(top: 20),
+      padding: const EdgeInsets.symmetric(vertical: 20),
       child: Container(
         width: deviceWidth,
         height: deviceHeight / 3.5,
-        padding: const EdgeInsets.symmetric(vertical: 20),
+        padding: const EdgeInsets.only(top: 10, bottom: 5),
         decoration: BoxDecoration(
             color: Colors.white,
             borderRadius: BorderRadius.circular(25),

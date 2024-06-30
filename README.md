@@ -1,16 +1,58 @@
-# todo_app
+# Todo App
 
-A new Flutter project.
+A simple Flutter application for managing tasks.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+Todo App is designed to help users organize their daily tasks efficiently. It allows users to add, edit, and delete tasks with ease. This app utilizes Flutter for cross-platform compatibility.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 1](images/screenshoot1.jpg)
+![Screenshot 2](images/screenshoot2.jpg)
+![Screenshot 3](images/screenshoot3.jpg)
+![Screenshot 4](images/screenshoot4.jpg)
+![Screenshot 5](images/screenshoot5.jpg)
+![Screenshot 6](images/screenshoot6.jpg)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+
+- **Add Tasks**: Add tasks with title, category, date, time, and optional notes.
+- **Category Selection**: Choose from predefined categories with icons.
+- **Date and Time Selection**: Intuitive pickers for setting task deadlines.
+- **Local Storage**: Tasks are stored locally on the device.
+- **Responsive UI**: Designed to work seamlessly across different screen sizes.
+
+## Installation
+
+1. Clone the repository:
+   https://github.com/Ziraddin/todo_app.git
+2. Navigate to the project directory:
+   cd todo_app
+3. Run the app:
+   flutter run
+
+## Dependencies
+
+- `flutter_svg`: For displaying SVG images.
+- `provider`: For state management.
+
+## Usage
+
+1. **Adding a Task**:
+
+- Tap on the "+" button to add a new task.
+- Enter task details and select a category.
+
+2. **Managing Tasks**:
+
+- View all tasks on the main screen.
+- Tap on a task to view details or mark it as complete.
+
+3. **Editing or Deleting Tasks**:
+
+- Long press on a task to edit or delete it.
+
+## Contributing
+
+Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
