@@ -8,12 +8,12 @@ Todo App is designed to help users organize their daily tasks efficiently. It al
 
 ## Screenshots
 
-<img src="images/Screenshot_1.png" alt="Screenshot 1" width="400">
-<img src="images/Screenshot_2.png" alt="Screenshot 2" width="400">
-<img src="images/Screenshot_3.png" alt="Screenshot 3" width="400">
-<img src="images/Screenshot_4.png" alt="Screenshot 4" width="400">
-<img src="images/Screenshot_5.png" alt="Screenshot 5" width="400">
-<img src="images/Screenshot_6.png" alt="Screenshot 6" width="400">
+<img src="images/Screenshot_1.png" alt="Screenshot 1" width="200">
+<img src="images/Screenshot_2.png" alt="Screenshot 2" width="200">
+<img src="images/Screenshot_3.png" alt="Screenshot 3" width="200">
+<img src="images/Screenshot_4.png" alt="Screenshot 4" width="200">
+<img src="images/Screenshot_5.png" alt="Screenshot 5" width="200">
+<img src="images/Screenshot_6.png" alt="Screenshot 6" width="200">
 
 ## Features
 
